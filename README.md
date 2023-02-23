@@ -12,7 +12,7 @@ Install these prerequisites to follow along with the tutorial. See free video tu
 
 
 ## Step 1. Clone the project
-`git clone https://github.com/Daltonic/truffle-starter-kit.git <PROJECT NAME>`
+`https://github.com/Sasi-Praneeth-Reddy/freshers`
 
 ## Step 2. Install dependencies
 ```sh
